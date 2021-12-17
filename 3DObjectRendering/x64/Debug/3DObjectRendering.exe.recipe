@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\eagee\source\repos\3DObjectRendering\x64\Debug\3DObjectRendering.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\eagee\source\repos\3DObjectRendering\3DObjectRendering\Graphics\Shaders\Compiled\GlossyPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\eagee\source\repos\3DObjectRendering\3DObjectRendering\Graphics\Shaders\Compiled\GlossyVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\eagee\source\repos\3DObjectRendering\3DObjectRendering\Graphics\Shaders\Compiled\MattPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\eagee\source\repos\3DObjectRendering\3DObjectRendering\Graphics\Shaders\Compiled\MattVertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
